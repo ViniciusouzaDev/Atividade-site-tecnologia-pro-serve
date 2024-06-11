@@ -1,0 +1,34 @@
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg, #B5C2ca, #477C9C);
+}
+
+.tam-card{
+    object-fit: cover;
+    height: 350px;
+}
+
+.fonte-texto
+{
+font-family:"Roboto";
+font-size: 40px;
+}
+
+.cor-especial
+{
+font-family: "Pacifico", cursive;  
+color: #477C9C;
+}
+
+.borda-cor-especial
+{
+border-color: #477C9C;
+}

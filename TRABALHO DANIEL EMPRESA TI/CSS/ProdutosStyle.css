@@ -1,0 +1,34 @@
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg, #B5C2ca, #477C9C);
+}
+
+.botao-cor-especial
+{
+    background-color: #477C9C;
+    color: white;
+}
+
+.botao-cor-especial:hover
+{
+background-color: #477C9C;
+color: white;
+}
+
+.cor-especial
+{
+color: #477C9C;
+}
+
+.borda-cor-especial
+{
+border-color: #477C9C;
+}

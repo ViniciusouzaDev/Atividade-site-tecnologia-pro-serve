@@ -1,0 +1,53 @@
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg, #B5C2ca, #477C9C);
+}
+
+.cor-titulo
+{
+color: #477C9C;
+}
+
+.cor-especial{
+    color: #fff;
+    font-size: 50px;
+}
+
+.tam-card{
+    object-fit: cover;
+    height: 500px;
+}
+
+.tam-text{
+    font-size: 18px;
+    color: black;
+}
+
+.borda{
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.afastamento
+{
+margin-left: 125px;
+margin-right: 125px;
+margin-bottom: 50px;
+}
+
+.font-text-FAQs
+{
+font-size: 50px;
+}
+
+  

@@ -1,0 +1,74 @@
+.color{
+    color: white!important;
+}
+
+.navbar-brand{
+    font-size: 30px;
+}
+
+.nav-link{
+    font-size: 18px !important;
+    font-weight: 500;
+}
+
+.head-section{
+    background-image: linear-gradient(180deg, #B5C2ca, #477C9C);
+}
+.imagem-carrossel
+{
+    object-fit: cover;
+    height: 500px;
+}
+.fonte-titulo
+{
+        font-family: "Pacifico", cursive;  
+        font-size: 40px !important;
+}
+.carousel-caption {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.borda{
+    border-radius: 50%;
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
+
+.margin{
+    margin-top: 50px;
+}
+
+.img-tec{
+    border-radius: 25px;
+}
+
+.color-titulo{
+    color: #477C9C;
+}
+
+.tam-text{
+    font-size: 18px;
+    color: black;
+}
+
+.ionicons{
+    color: #0a58ca;
+    background-color: #f2f2f2;
+    padding: 10px;
+    height: 30px;
+    width: 30px;
+    margin-bottom: 12px;
+}
+
+.blue-bg{
+    background-color: #B5C2ca;
+}
+
